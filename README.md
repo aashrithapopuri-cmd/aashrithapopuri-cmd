@@ -2,9 +2,9 @@
 
 ### Artificial Intelligence | LLMs | AI Quality Engineering
 
-I'm a **2nd-year B.Tech Artificial Intelligence student at Mahindra University, building strong foundations in Artificial Intelligence, Machine Learning, Deep Learning, and software development.
+I'm a 2nd-year B.Tech Artificial Intelligence student at Mahindra University, building strong foundations in Artificial Intelligence, Machine Learning, Deep Learning, and software development.
 
-I'm particularly interested in **AI Quality Engineering and LLM Evaluation Engineering**, and I'm exploring how Large Language Models can be developed, tested, evaluated, and improved for **accuracy, reliability, robustness, and performance**.
+I'm particularly interested in AI Quality Engineering and LLM Evaluation Engineering**, and I'm exploring how Large Language Models can be developed, tested, evaluated, and improved  **accuracy, reliability, robustness, and performance**.
 
 ---
 
@@ -96,5 +96,5 @@ Hands-on implementation of **data structures, algorithms, searching, sorting, an
 ## Connect
 
 * [LinkedIn](https://www.linkedin.com/in/aashritha-popuri-a6898524a/)
-* [GitHub](https://github.com/)
+
 
